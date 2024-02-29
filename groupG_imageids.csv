@@ -1,4 +1,4 @@
-annotator ID,filename,comments
+annotator ID,filename
 1,PAT_311_666_191.png,
 1,PAT_924_1757_704.png,
 1,PAT_549_1043_36.png,
@@ -69,11 +69,11 @@ annotator ID,filename,comments
 3,PAT_859_1638_598.png,
 3,PAT_535_1011_567.png,
 3,PAT_793_1512_382.png,
-3,PAT_153_233_45.png,LOW QUALITY
+3,PAT_153_233_45.png,
 3,PAT_1736_3246_166.png,
 3,PAT_338_709_306.png,
 3,PAT_950_1804_64.png,
-4,PAT_246_377_159.png,LOW QUALITY
+4,PAT_246_377_159.png,
 4,PAT_796_1509_459.png,
 4,PAT_1608_2720_196.png,
 4,PAT_819_1541_727.png,
@@ -82,7 +82,7 @@ annotator ID,filename,comments
 4,PAT_834_1572_973.png,
 4,PAT_72_110_647.png,
 4,PAT_152_230_934.png,
-4,PAT_356_4511_960.png,LOW QUALITY
+4,PAT_356_4511_960.png,
 4,PAT_1388_3513_146.png,
 4,PAT_1406_1397_669.png,
 4,PAT_75_114_73.png,
@@ -98,32 +98,32 @@ annotator ID,filename,comments
 4,PAT_641_1211_321.png,
 4,PAT_966_1826_587.png,
 4,PAT_1521_1778_763.png,
-5,PAT_1618_2771_628.png,LOW QUALITY
-5,PAT_601_1147_943.png,flat with pigmentation
-5,PAT_994_1866_913.png,small pink lesion
-5,PAT_557_1058_309.png,"red lesion, could be inflamed"
-5,PAT_67_104_730.png,malignant wound
-5,PAT_403_804_994.png,"a blueish lesion, possibly a mole"
-5,PAT_465_901_106.png,"a dark brown, raised mole"
-5,PAT_526_3205_611.png,"pink colored lesion, irregular shape"
-5,PAT_1414_1431_754.png,"large, reddish-purple bruise or discoloration on the skin"
-5,PAT_1130_501_181.png,"skin with a rough texture, irritation"
-5,PAT_841_1603_667.png,"dark, patchy area of skin discoloration"
-5,PAT_1022_115_132.png,flesh-colored bump near the eye
-5,PAT_1020_111_593.png,"several small, light brown spots on the skin (moles or freckles)"
-5,PAT_1709_3159_144.png,a light brown spot
-5,PAT_1735_3242_27.png,regular light raised bump
-5,PAT_926_1758_714.png,"redish color, possibly eczema"
-5,PAT_154_235_162.png,"LOW QUALITY, circular, reddish wound"
-5,PAT_831_1570_637.png,"raised, white lesion with a rough surface"
-5,PAT_1249_862_658.png,"LOW QUALITY, raised dark brown lesion, mole"
-5,PAT_759_1433_914.png,"a pink, slightly raised area"
-5,PAT_1531_1800_683.png,brownish patch with some darker areas
-5,PAT_2144_4738_120.png,"a round, dark brown lesion with a textured surface"
-5,PAT_1370_1274_515.png,low visibility
-5,PAT_862_1643_386.png,small dark lesion
-5,PAT_2103_4581_72.png,a cluster of greyish spots
-5,PAT_1365_1253_912.png,low visibility
-5,PAT_340_714_314.png,dark blue or black bump
-5,PAT_717_1347_899.png,"a dark brown, irregularly shaped mark"
-5,PAT_719_1361_234.png,"area with dark spots, possibly pigmentation changes"
+5,PAT_1618_2771_628.png,
+5,PAT_601_1147_943.png,
+5,PAT_994_1866_913.png,
+5,PAT_557_1058_309.png,
+5,PAT_67_104_730.png,
+5,PAT_403_804_994.png,
+5,PAT_465_901_106.png,
+5,PAT_526_3205_611.png,
+5,PAT_1414_1431_754.png,
+5,PAT_1130_501_181.png,
+5,PAT_841_1603_667.png,
+5,PAT_1022_115_132.png,
+5,PAT_1020_111_593.png,
+5,PAT_1709_3159_144.png,
+5,PAT_1735_3242_27.png,
+5,PAT_926_1758_714.png,
+5,PAT_154_235_162.png,
+5,PAT_831_1570_637.png,
+5,PAT_1249_862_658.png,
+5,PAT_759_1433_914.png,
+5,PAT_1531_1800_683.png,
+5,PAT_2144_4738_120.png,
+5,PAT_1370_1274_515.png,
+5,PAT_862_1643_386.png,
+5,PAT_2103_4581_72.png,
+5,PAT_1365_1253_912.png
+5,PAT_340_714_314.png,
+5,PAT_717_1347_899.png,
+5,PAT_719_1361_234.png,
