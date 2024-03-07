@@ -1,12 +1,14 @@
 # Summary
-## Project in Data Science
-## Group: G (Greedy Geckos)
- 
-## Aniela Marta Ciecierska
-## Francisco Gonçalves Medeiros Lemos Moreno
-## Jakub Piotr Gąsior
-## Jonas Drøivoldsmo Lesund
-## Michaela Macejovska
+Project in Data Science
+Group: G (Greedy Geckos)
+ <span style="color:blue">
+* Aniela Marta Ciecierska
+* Francisco Gonçalves Medeiros Lemos Moreno
+* Jakub Piotr Gąsior
+* Jonas Drøivoldsmo Lesund
+* Michaela Macejovska
+</span>
+
 
 
 
