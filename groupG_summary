@@ -2,11 +2,11 @@
 ## Project in Data Science
 ## Group: G (Greedy Geckos)
  
-# Aniela Marta Ciecierska
-# Francisco Gonçalves Medeiros Lemos Moreno
-Jakub Piotr Gąsior
-Jonas Drøivoldsmo Lesund
-Michaela Macejovska
+## Aniela Marta Ciecierska
+## Francisco Gonçalves Medeiros Lemos Moreno
+## Jakub Piotr Gąsior
+## Jonas Drøivoldsmo Lesund
+## Michaela Macejovska
 
 
 
@@ -17,18 +17,18 @@ Since the images are being observed on either a phone or laptop screen and the r
 The findings are as follows:
 
 
-•	Actinic keratosis: A discolored, rough spot, up to 1 cm in diameter, often with hyperkeratotic layers, sometimes taking the form of a cutaneous horn. (71 images fall under this category).
+*	Actinic keratosis: A discolored, rough spot, up to 1 cm in diameter, often with hyperkeratotic layers, sometimes taking the form of a cutaneous horn. (71 images fall under this category).
 
-•	Basal cell carcinoma: Most often a pale color nodule, well demarcated from the surrounding skin, with translucent vessels. In more advanced forms with the presence of an ulcer with a ridged edge. 
+*	Basal cell carcinoma: Most often a pale color nodule, well demarcated from the surrounding skin, with translucent vessels. In more advanced forms with the presence of an ulcer with a ridged edge. 
 (49 images fall under this category).
 
-•	Melanoma: Asymmetrical lesion, with irregular borders, non-uniform color (from light brown to black) and diameter over 6 mm. (2 images fall under this category).
+*	Melanoma: Asymmetrical lesion, with irregular borders, non-uniform color (from light brown to black) and diameter over 6 mm. (2 images fall under this category).
 
-•	Nevus: Symmetrical lesion, with even borders, uniform color (from light brown to black) and diameter up to 6 mm. (13 images fall under this category).
+* Nevus: Symmetrical lesion, with even borders, uniform color (from light brown to black) and diameter up to 6 mm. (13 images fall under this category).
 
 •	Squamous cell carcinoma: From an erythematous, scaly papule to an ulcerated, disintegrating Tumor. (22 images fall under this category).
 
-•	Seborrheic keratosis: More or less raised lesions above the skin surface, sometimes pedunculated, with a smooth, lumpy, or rough surface, pale or brown color. (25 images fall under this category).
+*	Seborrheic keratosis: More or less raised lesions above the skin surface, sometimes pedunculated, with a smooth, lumpy, or rough surface, pale or brown color. (25 images fall under this category).
 
 
 
@@ -44,22 +44,22 @@ Handling missing data depends on the context and the importance of the missing i
 missing data might be more critical and could potentially indicate cases where the diagnosis was not recorded. Before handling the missing data, it's important to understand why it is missing.
 For instance, if the missing data is not random (i.e., there is a pattern to the absence), simply deleting or imputing without investigating could introduce bias into any conclusions drawn from the data.
 
-Quality of the images from the data set.
+## Quality of the images from the data set.
 
 It is rather challenging to determine which images qualify as low quality as some have a considerably higher resolution than others, meanwhile those that have “lower quality” are still 
 not necessarily considered bad quality, as the cancer is quite visible even on the images with lower resolution. As a result, these images cannot, in this case, be considered of too low resolution 
 to be able to draw any conclusions about the type of cancer shown. 
 
 
-Low quality photos:
+## Low quality photos:
 PAT_246_377_159.png
 PAT_153_233_45.png
 PAT_356_4511_960.png
 PAT_1618_2771_628.png
 
--photos deleted form the data set. 
+* photos deleted form the data set. 
 
-Citation of the dataset that was downloaded:
+## Citation of the dataset that was downloaded:
 
 Pacheco, Andre G. C.; Lima, Gustavo R.; Salomão, Amanda S.; Krohling, Breno; Biral, Igor P.; de Angelo, Gabriel G. ; Alves Jr, Fábio  C. R. ; Esgario, José G. M.; Simora, Alana C. ; 
 Castro, Pedro B. C. ; Rodrigues, Felipe B.; Frasson, Patricia H. L. ; Krohling, Renato A.; Knidel, Helder ; Santos, Maria C. S. ; Espírito Santo, Rachel B.; Macedo, Telma L. S. G.; 
