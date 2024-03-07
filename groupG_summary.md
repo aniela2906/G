@@ -1,13 +1,12 @@
 # Summary
 Project in Data Science
 Group: G (Greedy Geckos)
- <span style="color:blue">
+
 * Aniela Marta Ciecierska
 * Francisco Gonçalves Medeiros Lemos Moreno
 * Jakub Piotr Gąsior
 * Jonas Drøivoldsmo Lesund
 * Michaela Macejovska
-</span>
 
 
 
@@ -28,13 +27,13 @@ The findings are as follows:
 
 * Nevus: Symmetrical lesion, with even borders, uniform color (from light brown to black) and diameter up to 6 mm. (13 images fall under this category).
 
-•	Squamous cell carcinoma: From an erythematous, scaly papule to an ulcerated, disintegrating Tumor. (22 images fall under this category).
+* Squamous cell carcinoma: From an erythematous, scaly papule to an ulcerated, disintegrating Tumor. (22 images fall under this category).
 
 *	Seborrheic keratosis: More or less raised lesions above the skin surface, sometimes pedunculated, with a smooth, lumpy, or rough surface, pale or brown color. (25 images fall under this category).
 
 
 
-##Missing data	
+## Missing data	
 
 Each skin lesion is made up of a maximum of 26 features, where each line denotes a skin lesion, and each column denotes a feature. It seems that there is a pattern of missing values. 
 The same values are missing in every observation. There are some cells that contain "UNK" indicating unknown or missing data (“background_father”, “background_mother”, “grew”, “changed”, “itch”). 
