@@ -118,7 +118,7 @@ annotator ID	image ID	comment
 3	PAT_824_1561_796.png	Red oval shaped lesion, pink area- looks like a scar
 3	PAT_1586_2624_615.png	Brown circullar lesion, not even edges
 3	PAT_859_1638_598.png	Black lesions (crust-like)- on red area, irregular shape 
-	PAT_535_1011_567.png	Red area, looks like eczema, plasma 
+3	PAT_535_1011_567.png	Red area, looks like eczema, plasma 
 3	PAT_793_1512_382.png	Brown oval shaped lesion, not even color and edges 
 3	PAT_153_233_45.png	LOW QUALITY-deleted
 3	PAT_1736_3246_166.png	Looks like a old wound- healed, a white dot on top 
@@ -177,8 +177,4 @@ annotator ID	image ID	comment
 5	PAT_1365_1253_912.png	low visibility
 5	PAT_340_714_314.png	dark blue or black bump
 5	PAT_717_1347_899.png	a dark brown, irregularly shaped mark
-5	PAT_719_1361_234.png	area with dark spots, possibly pigmentation changes
-		
-	deleted from data set	
-	consider to delete 	
-
+5	PAT_719_1361_234.png	area with dark spots, possibly pigmentation changes 	
