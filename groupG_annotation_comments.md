@@ -50,24 +50,24 @@ PAT_1709_3159_144, PAT_2103_4581_72
 
 | annotator ID | image ID              |  comment                                                                                                                   |
 | ------------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 1            | PAT_311_666_191.png   | red/pink  lesion, circular                                                                                                |
-| 1            | PAT_924_1757_704.png  | red, rough lesion, might be infected                                                                                      |
-| 1            | PAT_549_1043_36.png   | pink, flat, irregural shape with a white head, skin irritation                                                            |
-| 1            | PAT_677_1349_851.png  | pink, flat, irregural shape, looks like a scar                                                                            |
-| 1            | PAT_771_1489_345.png  | flat, light pink – almost not visable                                                                                     |
-| 1            | PAT_664_1263_781.png  | pink, flat, might be infected,                                                                                            |
-| 1            | PAT_1641_2886_284.png | rough area, darker spot                                                                                                   |
-| 1            | PAT_1322_1137_201.png | small lesion, few darker spots- looks like skin irritation                                                                |
-| 1            | PAT_1404_1393_540.png | darker spots on the skin, no rash/skin irritation/reddness                                                                |
-| 1            | PAT_253_384_607.png   | rough irritation, reddness, swallen area with a red lesion                                                                |
-| 1            | PAT_837_1582_714.png  | red skin irritation                                                                                                       |
-| 1            | PAT_522_986_800.png   | red protruding lession, circular, no irritation                                                                           |
-| 1            | PAT_53_1370_288.png   | red spots, pink area, looks like skin irritation                                                                          |
-| 1            | PAT_938_1789_693.png  | dark red protuding lesion, might be infected                                                                              |
-| 1            | PAT_854_1635_103.png  | red skin irritation, looks like eczema                                                                                    |
-| 1            | PAT_1690_3082_117.png | yellow little lesion, red area                                                                                            |
-| 1            | PAT_595_1142_142.png  | dry skin, yellow spot, looks like a skin irritation                                                                       |
-| 1            | PAT_1993_4077_139.png | looks like a skin rash, a bit red                                                                                         |
+| 1            | PAT_311_666_191.png   | Red/pink  lesion, circular                                                                                                |
+| 1            | PAT_924_1757_704.png  | Red, rough lesion, might be infected                                                                                      |
+| 1            | PAT_549_1043_36.png   | Pink, flat, irregural shape with a white head, skin irritation                                                            |
+| 1            | PAT_677_1349_851.png  | Pink, flat, irregural shape, looks like a scar                                                                            |
+| 1            | PAT_771_1489_345.png  | Flat, light pink – almost not visable                                                                                     |
+| 1            | PAT_664_1263_781.png  | Pink, flat, might be infected,                                                                                            |
+| 1            | PAT_1641_2886_284.png | Rough area, darker spot                                                                                                   |
+| 1            | PAT_1322_1137_201.png | Small lesion, few darker spots- looks like skin irritation                                                                |
+| 1            | PAT_1404_1393_540.png | Darker spots on the skin, no rash/skin irritation/reddness                                                                |
+| 1            | PAT_253_384_607.png   | Rough irritation, reddness, swallen area with a red lesion                                                                |
+| 1            | PAT_837_1582_714.png  | Red skin irritation                                                                                                       |
+| 1            | PAT_522_986_800.png   | Red protruding lession, circular, no irritation                                                                           |
+| 1            | PAT_53_1370_288.png   | Red spots, pink area, looks like skin irritation                                                                          |
+| 1            | PAT_938_1789_693.png  | Dark red protuding lesion, might be infected                                                                              |
+| 1            | PAT_854_1635_103.png  | Red skin irritation, looks like eczema                                                                                    |
+| 1            | PAT_1690_3082_117.png | Yellow little lesion, red area                                                                                            |
+| 1            | PAT_595_1142_142.png  | Dry skin, yellow spot, looks like a skin irritation                                                                       |
+| 1            | PAT_1993_4077_139.png | Looks like a skin rash, a bit red                                                                                         |
 | 1            | PAT_835_1578_592.png  | Red/black/ blood pigmented lesion, with dry part on top, circular                                                         |
 | 1            | PAT_492_1784_50.png   | Horn like lesion, dry area on the bottom- some skin irritation                                                            |
 | 1            | PAT_492_4723_890.png  | Pink area, like a scar, yellow lesion – looks like a infection                                                            |
@@ -79,7 +79,7 @@ PAT_1709_3159_144, PAT_2103_4581_72
 | 2            | PAT_640_1210_293.png  | Red, inflamed, bloody, Purple marks around                                                                                |
 | 2            | PAT_1067_284_533.png  | Flat, white/tellow, rough surface                                                                                         |
 | 2            | PAT_354_1814_619.png  | Flat, brown/gray, resembles a birthmark, triangle shape                                                                   |
-| 2            | PAT_1708_3153_799.png | , two sections, one twice the size of the other, the smaller one with areas with a rougher Surface.                       |
+| 2            | PAT_1708_3153_799.png | Two sections, one twice the size of the other, the smaller one with areas with a rougher Surface.                       |
 | 2            | PAT_224_1340_142.png  | Rough-ish Surface, dark red, small, oval shaped                                                                           |
 | 2            | PAT_198_302_44.png    | Flat, smooth Surface, light red/pink                                                                                      |
 | 2            | PAT_407_810_390.png   | Flat, pink and Purple, not a defined shape                                                                                |
@@ -150,32 +150,31 @@ PAT_1709_3159_144, PAT_2103_4581_72
 | 4            | PAT_966_1826_587.png  | Triangular shaped scarred outline                                                                                         |
 | 4            | PAT_1521_1778_763.png | Mole with irregular shape,  texture and colour                                                                            |
 | 5            | PAT_1618_2771_628.png | LOW QUALITY- deleted                                                                                                      |
-| 5            | PAT_601_1147_943.png  | flat with pigmentation                                                                                                    |
-| 5            | PAT_994_1866_913.png  | small pink lesion                                                                                                         |
-| 5            | PAT_557_1058_309.png  | red lesion, could be inflamed                                                                                             |
-| 5            | PAT_67_104_730.png    | malignant wound                                                                                                           |
-| 5            | PAT_403_804_994.png   | a blueish lesion, possibly a mole                                                                                         |
-| 5            | PAT_465_901_106.png   | a dark brown, raised mole                                                                                                 |
-| 5            | PAT_526_3205_611.png  | pink colored lesion, irregular shape                                                                                      |
-| 5            | PAT_1414_1431_754.png | large, reddish-purple bruise or discoloration on the skin                                                                 |
-| 5            | PAT_1130_501_181.png  | skin with a rough texture, irritation                                                                                     |
-| 5            | PAT_841_1603_667.png  | dark, patchy area of skin discoloration                                                                                   |
-| 5            | PAT_1022_115_132.png  | flesh-colored bump near the eye                                                                                           |
-| 5            | PAT_1020_111_593.png  | several small, light brown spots on the skin (moles or freckles)                                                          |
-| 5            | PAT_1709_3159_144.png | a light brown spot                                                                                                        |
-| 5            | PAT_1735_3242_27.png  | regular light raised bump                                                                                                 |
-| 5            | PAT_926_1758_714.png  | redish color, possibly eczema                                                                                             |
+| 5            | PAT_601_1147_943.png  | Flat with pigmentation                                                                                                    |
+| 5            | PAT_994_1866_913.png  | Small pink lesion                                                                                                         |
+| 5            | PAT_557_1058_309.png  | Red lesion, could be inflamed                                                                                             |
+| 5            | PAT_67_104_730.png    | Malignant wound                                                                                                           |
+| 5            | PAT_403_804_994.png   | A blueish lesion, possibly a mole                                                                                         |
+| 5            | PAT_465_901_106.png   | A dark brown, raised mole                                                                                                 |
+| 5            | PAT_526_3205_611.png  | Pink colored lesion, irregular shape                                                                                      |
+| 5            | PAT_1414_1431_754.png | Large, reddish-purple bruise or discoloration on the skin                                                                 |
+| 5            | PAT_1130_501_181.png  | Skin with a rough texture, irritation                                                                                     |
+| 5            | PAT_841_1603_667.png  | Dark, patchy area of skin discoloration                                                                                   |
+| 5            | PAT_1022_115_132.png  | Flesh-colored bump near the eye                                                                                           |
+| 5            | PAT_1020_111_593.png  | Several small, light brown spots on the skin (moles or freckles)                                                          |
+| 5            | PAT_1709_3159_144.png | A light brown spot                                                                                                        |
+| 5            | PAT_1735_3242_27.png  | Regular light raised bump                                                                                                 |
+| 5            | PAT_926_1758_714.png  | Redish color, possibly eczema                                                                                             |
 | 5            | PAT_154_235_162.png   | LOW QUALITY, circular, reddish wound                                                                                      |
-| 5            | PAT_831_1570_637.png  | raised, white lesion with a rough surface                                                                                 |
+| 5            | PAT_831_1570_637.png  | Raised, white lesion with a rough surface                                                                                 |
 | 5            | PAT_1249_862_658.png  | LOW QUALITY, raised dark brown lesion, mole                                                                               |
-| 5            | PAT_759_1433_914.png  | a pink, slightly raised area                                                                                              |
-| 5            | PAT_1531_1800_683.png | brownish patch with some darker areas                                                                                     |
-| 5            | PAT_2144_4738_120.png | a round, dark brown lesion with a textured surface                                                                        |
-| 5            | PAT_1370_1274_515.png | low visibility                                                                                                            |
-| 5            | PAT_862_1643_386.png  | small dark lesion                                                                                                         |
-| 5            | PAT_2103_4581_72.png  | a cluster of greyish spots                                                                                                |
-| 5            | PAT_1365_1253_912.png | low visibility                                                                                                            |
-| 5            | PAT_340_714_314.png   | dark blue or black bump                                                                                                   |
-| 5            | PAT_717_1347_899.png  | a dark brown, irregularly shaped mark                                                                                     |
-| 5            | PAT_719_1361_234.png  | area with dark spots, possibly pigmentation changes                                                                       |
-|              |                       |                                                                                                                           |
+| 5            | PAT_759_1433_914.png  | A pink, slightly raised area                                                                                              |
+| 5            | PAT_1531_1800_683.png | Brownish patch with some darker areas                                                                                     |
+| 5            | PAT_2144_4738_120.png | A round, dark brown lesion with a textured surface                                                                        |
+| 5            | PAT_1370_1274_515.png | Low visibility                                                                                                            |
+| 5            | PAT_862_1643_386.png  | Small dark lesion                                                                                                         |
+| 5            | PAT_2103_4581_72.png  | A cluster of greyish spots                                                                                                |
+| 5            | PAT_1365_1253_912.png | Low visibility                                                                                                            |
+| 5            | PAT_340_714_314.png   | Dark blue or black bump                                                                                                   |
+| 5            | PAT_717_1347_899.png  | A dark brown, irregularly shaped mark                                                                                     |
+| 5            | PAT_719_1361_234.png  | Area with dark spots, possibly pigmentation changes                                                                       |
