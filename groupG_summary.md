@@ -18,18 +18,18 @@ Since the images are being observed on either a phone or laptop screen and the r
 The findings are as follows:
 
 
-*	Actinic keratosis: A discolored, rough spot, up to 1 cm in diameter, often with hyperkeratotic layers, sometimes taking the form of a cutaneous horn. (71 images fall under this category).
+*	Actinic keratosis: A discolored, rough spot, up to 1 cm in diameter, often with hyperkeratotic layers, sometimes taking the form of a cutaneous horn. (54 images fall under this category).
 
 *	Basal cell carcinoma: Most often a pale color nodule, well demarcated from the surrounding skin, with translucent vessels. In more advanced forms with the presence of an ulcer with a ridged edge. 
-(49 images fall under this category).
+  (39 images fall under this category).
 
 *	Melanoma: Asymmetrical lesion, with irregular borders, non-uniform color (from light brown to black) and diameter over 6 mm. (2 images fall under this category).
 
-* Nevus: Symmetrical lesion, with even borders, uniform color (from light brown to black) and diameter up to 6 mm. (13 images fall under this category).
+* Nevus: Symmetrical lesion, with even borders, uniform color (from light brown to black) and diameter up to 6 mm. (9 images fall under this category).
 
-* Squamous cell carcinoma: From an erythematous, scaly papule to an ulcerated, disintegrating Tumor. (22 images fall under this category).
+* Squamous cell carcinoma: From an erythematous, scaly papule to an ulcerated, disintegrating Tumor. (18 images fall under this category).
 
-*	Seborrheic keratosis: More or less raised lesions above the skin surface, sometimes pedunculated, with a smooth, lumpy, or rough surface, pale or brown color. (25 images fall under this category).
+*	Seborrheic keratosis: More or less raised lesions above the skin surface, sometimes pedunculated, with a smooth, lumpy, or rough surface, pale or brown color. (16 images fall under this category).
 
 
 
