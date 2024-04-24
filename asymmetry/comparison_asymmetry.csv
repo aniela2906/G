@@ -1,8 +1,8 @@
 Image_ID;computer;aniela;francisco;jakub;jonas;michaela;mean;match;scale(1-4)
-PAT_924_1757_704;2;;;;;;;;1. None Symetry (vertical_similarity <= 0.8 and horizontal_similarity <= 0.8)
-PAT_549_1043_36;2;;;;;;;;2. Low Symetry (vertical_similarity > 0.8 and horizontal_similarity > 0.8)
-PAT_677_1349_851;3;;;;;;;;3. Moderate Symetry (vertical_similarity > 0.91 and horizontal_similarity > 0.91)
-PAT_664_1263_781;1;;;;;;;;4. Perfect Symetry (vertical_similarity > 0.95 and horizontal_similarity > 0.95)
+PAT_924_1757_704;2;;;;;;;;1. None Symmetry (vertical_similarity <= 0.8 and horizontal_similarity <= 0.8)
+PAT_549_1043_36;2;;;;;;;;2. Low Symmetry (vertical_similarity > 0.8 and horizontal_similarity > 0.8)
+PAT_677_1349_851;3;;;;;;;;3. Moderate Symmetry (vertical_similarity > 0.91 and horizontal_similarity > 0.91)
+PAT_664_1263_781;1;;;;;;;;4. Perfect Symmetry (vertical_similarity > 0.95 and horizontal_similarity > 0.95)
 PAT_1641_2886_284;2;;;;;;;;
 PAT_1322_1137_201;1;;;;;;;;
 PAT_1404_1393_540;2;;;;;;;;
