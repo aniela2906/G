@@ -7,7 +7,7 @@ input:
 - mask folder path
   
 output:
--csv file with scores of 3 features, and probabilites of a melanoma
+- csv file with scores of 3 features, and probabilites of a melanoma
 
 
 
