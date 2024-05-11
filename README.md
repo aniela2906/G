@@ -17,7 +17,7 @@ output:
 - assymetry
     - single code for assymetry test, with precise description of every step. - Jupyter Source File (.ipynb)
     - comparison_assymetry.csv ran over group_G dataset, code results compared with 
-      human opinion.
+      human opinion. -(.csv)
     - additional folder with resized_masks and cropped_and_rotated_masks that helped us
       during the process of running the assymetry code. (checking if the minimum bounding
       box is looking good)
@@ -26,7 +26,7 @@ output:
 - blue-white veil 
     - single code for blue-white veil test, with precise description of every step. - Jupyter Source File (.ipynb)
     - comparison_blue_white_veil.csv ran over group_G dataset, code results compared with 
-      human opinion.
+      human opinion. -(.csv)
     - additional folder "blue_white_veil_internet" with additional dataset (melanoma that
       have blue white veils detected by doctors) to check if the code is detecting
       correctly downloaded from: 
@@ -41,7 +41,7 @@ output:
 - color
     - single code for color test, with precise description of every step.  - Jupyter Source File (.ipynb)
     - comparison_color.csv ran over group_G dataset, code results compared with 
-      human opinion.
+      human opinion. -(.csv)
       
 - graphs (graphs used in report)
 
