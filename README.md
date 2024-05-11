@@ -15,8 +15,7 @@ output:
 ### folders:
 
 - assymetry
-    - single code for assymetry test, as well as the code that you can run the assymetry
-      test over a whole dataset.
+    - single code for assymetry test, with precise description of every step.
     - comparison_assymetry.csv ran over group_G dataset, code results compared with 
       human opinion.
     - additional folder with resized_masks and cropped_and_rotated_masks that helped us
@@ -25,8 +24,7 @@ output:
   
   
 - blue-white veil 
-    - single code for blue-white veil test, as well as the code that you can run the blue-
-      white veil test over a whole dataset.
+    - single code for blue-white veil test, with precise description of every step.
     - comparison_blue_white_veil.csv ran over group_G dataset, code results compared with 
       human opinion.
     - additional folder "blue_white_veil_internet" with additional dataset (melanoma that
@@ -41,8 +39,7 @@ output:
       with it's results.
       
 - color
-    - single code for color test, as well as the code that you can run the color
-      test over a whole dataset.
+    - single code for color test, with precise description of every step.
     - comparison_color.csv ran over group_G dataset, code results compared with 
       human opinion.
       
