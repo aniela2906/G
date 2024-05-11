@@ -1,7 +1,16 @@
 # Welcome to GroupIT repository :)
 
 
-### Tour through:
+## 3 in 1 code with clasifier:
+input:
+- image folder path
+- mask folder path
+output:
+-csv file with scores of 3 features, and probabilites of a melanoma
+
+
+
+### Tour through the repository:
 ### folders:
 
 - assymetry
