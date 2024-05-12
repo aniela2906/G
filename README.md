@@ -92,8 +92,13 @@ output:
     
 - midway (file containing files uploaded for the midway of the project)
 
-- result_for_other_groups_images (code 3_in_1_code_output) ran over other groups images,
-  and masks giving us a slightly bigger data set to work on.
+### moreover:
+- 3_in_1_code_output_csv (Jupyter Source File (.ipynb)) - single code that uses color_test, assymetry_test and blue_white_veil_test, to output the results for this 3 features,
+  in a csv file.
+- classifier_and_probability (Jupyter Source File (.ipynb)) - code, where we compared classifier: random forest,  KNN, decision tree, their learning curves, confusion matrices and probabilities.
+- for_classifier (.csv) sheet with 568 images, and their 3 features scores, on which our classifier was trained on.
+- image_ID_sheet (.csv) sheet with all group_G images ID's
+- trained_random_forest_classifier.pkl  - trained classifier 
 
  
 
