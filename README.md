@@ -12,6 +12,8 @@ output:
 
 
 ### Tour through the repository:
+- report.pdf
+- 
 ### folders:
 
 - assymetry
@@ -54,3 +56,9 @@ output:
   and masks giving us a slightly bigger data set to work on.
 
  
+
+claifiers we concidered:
+- SVC
+- KNN
+- decission tree
+- random forest 
