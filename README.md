@@ -4,7 +4,7 @@
 ## 3_in_1_code_with_trained_classifier.py (or .ipynb in working_on_project folder):
 description how to use the code and how to interprete the scores:
 
-### INPUT:
+### INPUT:  
 
     - images folder path
     - masks foler path
