@@ -2,6 +2,7 @@
 
 
 ## 3 in 1 code with clasifier:
+description how to use the code and how to interprete the scores:
 
 ### INPUT:
     - images folder path
