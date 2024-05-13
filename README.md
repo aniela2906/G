@@ -51,4 +51,4 @@ output:
 - csv file with scores of 3 features, and probabilites of a melanoma
 
  ### trained_random_forest_classifier.pkl  - trained classifier 
- ### report.pdf
+ ### report.pdf 
