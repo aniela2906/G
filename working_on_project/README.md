@@ -5,7 +5,7 @@
 ## Assymetry
 - single code for assymetry test (Jupyter Source File (.ipynb)), with precise description of every step.
       
-##### INPUT: mask path 
+##### INPUT: (update code with the mask path)
 ##### OUTPUT: asymmetry score
 
 ##### Destription:
@@ -34,7 +34,7 @@
 ## Blue-white veil 
 - single code for blue-white veil test (Jupyter Source File (.ipynb)), with precise description of every step.
 
-##### INPUT: image path, mask path
+##### INPUT: (update code with the image path, mask path)
 ##### OUTPUT: yes(1)/ no(0) if the blue-white veil is detected
 
 ##### Description:
@@ -59,7 +59,7 @@
 ## Color
 - single code for color test (Jupyter Source File (.ipynb)), with precise description of every step.
   
-##### INPUT: image path and mask path
+##### INPUT: (update code with the image path, mask path)
 ##### OUTPUT: color score
 
 ##### Destription:
