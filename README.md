@@ -42,13 +42,13 @@ Please input the paths with " / " not " \ "
   
     
 #### example of inputs:  
-     - image_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/images_orginal"  
-     - mask_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/masks_orginal"  
+     - image_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/working_on_project/images_orginal"  
+     - mask_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/working_on_project/masks_orginal"  
      - output_csv = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/results.csv"  
 
   
 output:
 - csv file with scores of 3 features, and probabilites of a melanoma
 
- ##### trained_random_forest_classifier.pkl  - trained classifier 
- ##### report.pdf
+ ### trained_random_forest_classifier.pkl  - trained classifier 
+ ### report.pdf
