@@ -16,7 +16,7 @@
     6. Output score
 
 ###### score description:
-    range[1-4]   
+    range[1;4]   
     1 - none symmetry     
     2 - low symmetry      
     3 - moderate symmetry     
