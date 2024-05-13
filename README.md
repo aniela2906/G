@@ -101,8 +101,6 @@ output:
 
 - for_classifier (.csv) sheet with 568 images, and their 3 features scores, on which our classifier was trained on.
  
-- image_ID_sheet (.csv) sheet with all group_G images ID's
- 
 - trained_random_forest_classifier.pkl  - trained classifier 
 
  
