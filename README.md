@@ -65,3 +65,5 @@ The classifier is: "trained_random_forest_classifier.pkl" on the main page of th
 
  ### trained_random_forest_classifier.pkl  - trained classifier 
  ### report.pdf 
+ ### working_on_project folder :
+ All of the files that we used during the project
