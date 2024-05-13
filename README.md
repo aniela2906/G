@@ -1,7 +1,7 @@
 # Welcome to GroupIT repository :)
 
 
-## 3 in 1 code, with trained clasifier (either .py or .ipynb in working_on_project folder):
+## 3_in_1_code_with_trained_classifier (either .py or .ipynb in working_on_project folder):
 description how to use the code and how to interprete the scores:
 
 ### INPUT:
