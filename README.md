@@ -9,7 +9,14 @@ description how to use the code and how to interprete the scores:
     - images folder path
     - masks foler path
     - path for the output file .csv with results of all 3 features and the probability of a lesion to be a melanoma
-    
+
+#### example of inputs:  
+     - image_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/working_on_project/images_orginal"  
+     - mask_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/working_on_project/masks_orginal"  
+     - output_csv = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/results.csv"  
+
+Please input the paths with " / " not " \ "   
+
 ### OUTPUT:
 
     - .csv with results of all 3 features and the probability of a lesion to be a melanoma  
@@ -51,14 +58,9 @@ if probability_0 is 0.7 and probability_1 is 0.3 for a particular image-mask pai
     
         
 The classifier is: "trained_random_forest_classifier.pkl" on the main page of the repository.
-Please input the paths with " / " not " \ "   
+
   
     
-#### example of inputs:  
-     - image_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/working_on_project/images_orginal"  
-     - mask_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/working_on_project/masks_orginal"  
-     - output_csv = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/results.csv"  
-
   
 
  ### trained_random_forest_classifier.pkl  - trained classifier 
