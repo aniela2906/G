@@ -1,7 +1,7 @@
 # Welcome to GroupIT repository :)
 
 
-## 3 in 1 code with clasifier:
+## 3 in 1 code, with trained clasifier (either .py or .ipynb):
 description how to use the code and how to interprete the scores:
 
 ### INPUT:
@@ -100,8 +100,6 @@ output:
 - classifier_and_probability (Jupyter Source File (.ipynb)) - code, where we compared classifier: random forest,  KNN, decision tree, their learning curves, confusion matrices and probabilities.
 
 - for_classifier (.csv) sheet with 568 images, and their 3 features scores, on which our classifier was trained on.
- 
-- image_ID_sheet (.csv) sheet with all group_G images ID's
  
 - trained_random_forest_classifier.pkl  - trained classifier 
 
