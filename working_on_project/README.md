@@ -1,8 +1,6 @@
-# Tour through the folder:
+## Folders:
 
-## folders:
-
-## Assymetry
+### Assymetry
 - single code for assymetry test (Jupyter Source File (.ipynb)), with precise description of every step.
       
 ##### INPUT: (update code with the mask path)
@@ -31,19 +29,25 @@
       box is looking good)
   
   
-## Blue-white veil 
+### Blue-white veil 
 - single code for blue-white veil test (Jupyter Source File (.ipynb)), with precise description of every step.
 
 ##### INPUT: (update code with the image path, mask path)
 ##### OUTPUT: yes(1)/ no(0) if the blue-white veil is detected
 
 ##### Description:
+
     1. Load images
     2. convert image to HSV color space
     3. create mask for blue and combine with orginal mask
-    4. return ratio of blue-white0veil part/ full size of image range [0;1]
-    5. if ratio >0.1 : 1, else : 0
-
+    4. return ratio of (blue-white veil part)/ (full size of image)  range [0;1]
+    5. output score
+    
+###### score description:
+     
+    1 - blue-white veil detected    
+    0 - blue-white veil not detected      
+    
 
 ##### WARNING: do not uplad masks that have blue pen marks around lesion, then the result is not reliable
 
@@ -56,30 +60,37 @@
        https://www.researchgate.net/figure/a-c-Melanoma-images-with-Blue-white-Veil-b-veil-mask-by-Alg-1-The-red-areas-are_fig1_260127898(ResearchGate)
       with it's results.
       
-## Color
+### Color
 - single code for color test (Jupyter Source File (.ipynb)), with precise description of every step.
   
 ##### INPUT: (update code with the image path, mask path)
 ##### OUTPUT: color score
 
 ##### Destription:
+
      1. Load image and mask using PIL
      2. Convert imag and mask to numpy arrays 
      3. Get coordinates, crop
      4. Calculate the variance of colors within the lesion
-     5. Compute the colorfulness score as the sum of variances across all color channels.
+     5. Compute the colorfulness score as the sum of variances across all color channels
      6. Output
-    
+###### score description:
+
+      1 - relatively dull or monochromatic 
+      2 - some color variation, but it may lack intensity or diversity   
+      3 - significant color variation with vibrant and diverse hues   
+      4 - intense and varied colors, resembling a rainbow
+      
 - comparison_color.csv ran over group_G dataset, code results compared with 
       human opinion.
   
- ##### Moreover:     
-- graphs (graphs used in report)
+ ## Moreover:     
+- graphs folder - (graphs used in report).
 
-- images_oginal & masks_orginal (orginal images and masks for group G provided on the
-  beginig of this cours)
+- images_oginal & masks_orginal folders - orginal images and masks for group G provided on the
+  beginig of this cours).
     
-- midway (file containing files uploaded for the midway of the project)
+- midway folder - (contains files uploaded for the midway of the project).
 
 
 - 3_in_1_code_output_csv (Jupyter Source File (.ipynb)) - single code that uses color_test, assymetry_test and blue_white_veil_test, to output the results for this 3 features,
