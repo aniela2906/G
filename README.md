@@ -33,6 +33,7 @@ You might need to change the seperation in your .csv file so the results will be
 4. change the seperation to comma
    
 ![](img/3.png)
+
    
 #### Output understanding:
 
