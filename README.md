@@ -1,7 +1,7 @@
 # Welcome to GroupIT repository :)
 
 
-## 3_in_1_code_with_trained_classifier.py (or .ipynb in working_on_project folder):
+## 3_in_1_code_with_trained_classifier.py:
 description how to use the code and how to interprete the scores:
 
 ### INPUT:  
@@ -65,5 +65,6 @@ The classifier is: "trained_random_forest_classifier.pkl" on the main page of th
 
  ### trained_random_forest_classifier.pkl  - trained classifier 
  ### report.pdf 
- ### working_on_project folder :
- All of the files that we used during the project
+ 
+ ## All additional files used while working on project:
+https://github.com/aniela2906/GroupIT-working-on-project.git
