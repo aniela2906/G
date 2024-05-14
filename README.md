@@ -9,7 +9,8 @@ description how to use the code and how to interprete the scores:
     - images folder path
     - masks foler path
     - path for the output file .csv with results of all 3 features and the probability of a lesion to be a melanoma
-Be sure that the code 3_in_1_code_with_trained_classifier.py and trained_random_forest_classifier.pkl are on the same level-  by deafult they are both on the main page of the repository (It is becuase in code there is no path provided for the classifier):
+
+Be sure that the code 3_in_1_code_with_trained_classifier.py and trained_random_forest_classifier.pkl are located on the same directory level. By deafult both of these files are on the main page of the repository, as no specific paths are provided within the code for the classifier file:
 
 ![](img/1.png)
 
@@ -25,7 +26,7 @@ Please input the paths with " / " not " \ "
 
     - .csv with results of all 3 features and the probability of a lesion to be a melanoma  
     
-You might need to change the seperation in your .csv file so the results will be more presentable:
+You might need to change the separation in your .csv file so that the results will be easier to read:
 
 1. select the data clicking on column A
 2. go to "data" settings
@@ -81,7 +82,7 @@ The classifier is: "trained_random_forest_classifier.pkl" on the main page of th
   
 
  ### trained_random_forest_classifier.pkl  - trained classifier 
- ### report.pdf 
+  
  
  ## All additional files used while working on project:
 https://github.com/aniela2906/GroupIT-working-on-project.git
