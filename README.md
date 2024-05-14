@@ -20,6 +20,7 @@ Be sure that the code 3_in_1_code_with_trained_classifier.py and trained_random_
      - mask_folder = " C:/Users/cieci/OneDrive/Dokumenty/GitHub/GroupIT-working-on-project/data/masks_orginal"  
      - output_csv = " C:/Users/cieci/OneDrive/Dokumenty/GitHub/GroupIT-working-on-project/results.csv"  
 
+
 Please input the paths with " / " not " \ "   
 
 ### OUTPUT:
