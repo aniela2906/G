@@ -1,4 +1,4 @@
-# %% [markdown]  
+# %% [markdown]   
 # # 3 in one code, with trained classifier.
 # ### INPUT:
 #     - images folder path
