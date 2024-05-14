@@ -25,7 +25,7 @@ Please input the paths with " / " not " \ "
 
     - .csv with results of all 3 features and the probability of a lesion to be a melanoma  
     
-You might need to change the seperation in your .csv file:
+You might need to change the seperation in your .csv file so the results will be more presentable:
 
 1. select the data clicking on column A
 2. go to "data" settings
