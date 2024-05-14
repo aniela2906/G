@@ -9,6 +9,8 @@ description how to use the code and how to interprete the scores:
     - images folder path
     - masks foler path
     - path for the output file .csv with results of all 3 features and the probability of a lesion to be a melanoma
+(be sure that the code 3_in_1_code_with_trained_classifier.py and trained_random_forest_classifier.pkl are on the same level) by deafult they are both on the main page of the repository. It is becuase in code there is no path provided for the classifier .
+
 
 #### example of inputs:  
      - image_folder = " C:/Users/cieci/OneDrive/Dokumenty/GitHub/GroupIT-working-on-project/data/images_orginal"  
