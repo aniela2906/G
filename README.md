@@ -11,9 +11,9 @@ description how to use the code and how to interprete the scores:
     - path for the output file .csv with results of all 3 features and the probability of a lesion to be a melanoma
 
 #### example of inputs:  
-     - image_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/working_on_project/images_orginal"  
-     - mask_folder = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/working_on_project/masks_orginal"  
-     - output_csv = "C:/Users/cieci/OneDrive/Dokumenty/GitHub/G/results.csv"  
+     - image_folder = " C:/Users/cieci/OneDrive/Dokumenty/GitHub/GroupIT-working-on-project/data/images_orginal"  
+     - mask_folder = " C:/Users/cieci/OneDrive/Dokumenty/GitHub/GroupIT-working-on-project/data/masks_orginal"  
+     - output_csv = " C:/Users/cieci/OneDrive/Dokumenty/GitHub/GroupIT-working-on-project/results.csv"  
 
 Please input the paths with " / " not " \ "   
 
