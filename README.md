@@ -82,9 +82,9 @@ The classifier is: "trained_random_forest_classifier.pkl" on the main page of th
     
   
 
- ### trained_random_forest_classifier.pkl  - trained classifier 
+ #### trained_random_forest_classifier.pkl  - trained classifier 
  #### final_report_groupit.pdf 
- ### img folder (images used in README)
+ #### img folder (images used in README)
  
  ## All additional files used while working on project:
 https://github.com/aniela2906/GroupIT-working-on-project.git
